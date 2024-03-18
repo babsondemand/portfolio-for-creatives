@@ -10,7 +10,7 @@ Add the Google Fonts you want, remove the ones you don't.
 
 */
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
 
 
 /*
@@ -72,7 +72,7 @@ html {
 :root {
   --body-typeface: "Inconsolata", monospace;
   --heading-typeface: "Inconsolata", monospace;
-  --project-title-typeface: "Inconsolata", monospace;
+  --project-title-typeface:  "La Belle Aurore", cursive;
   --background-color: #FFA3AF;
   --background-color-about: #FFA3AF;
   --background-color-footer: #FFA3AF;    
